@@ -15,7 +15,7 @@ public class Client {
 		client.execute();
 
 	}
-
+//comennt
 	private void execute() {
 		try {
 			Socket socket = new Socket("127.0.0.1", Server.PORT);
